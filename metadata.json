@@ -1,0 +1,6 @@
+{
+  "name": "IronCore Fitness",
+  "description": "Modern, premium, mobile-first Gym & Fitness experience showcasing elite training programs, flexible memberships, expert trainers, and visual transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
